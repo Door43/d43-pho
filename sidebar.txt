@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pho:home|Door43 (pho)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pho|d43-pho repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pho/archive/master.zip|d43-pho.zip]]
+
+**Recent Changes**
+{{changes>ns = pho}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pho|Ethnologue data]]
+
